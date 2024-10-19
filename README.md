@@ -1,5 +1,5 @@
 # Dictionary Web App - Frontend Mentor Challenge
-![Screenshot](./"Screenshot 2024-10-19 183410.png")
+<img src="https://github.com/Gorav22/dictionary-app/blob/main/Screenshot%202024-10-19%20183410.png?raw=true">
 
 It appears that the project you're trying to run uses Vite as its build tool and development server. Here are the steps to run the `fem-dictionary-web-app` project on your localhost:
 
